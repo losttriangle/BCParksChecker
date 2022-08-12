@@ -22,5 +22,5 @@ Google Chrome (Windows or Mac)<br>
     <li>As long as Tampermonkey is Enabled, it will auto check the pass avilability</li>
     <li>Once a pass is found you will recive an audable Chrome notification (Keep your volume up)</li>
     <li>You will need to book the pass once notified</li>
-    <li>Try to keep your coputer from sleeping</li>
+    <li>Try to keep your computer from sleeping</li>
 </ul>
